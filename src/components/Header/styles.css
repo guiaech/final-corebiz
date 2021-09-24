@@ -6,12 +6,21 @@
     margin: 10px;
 }
 
+.social{
+    max-width:100%;
+    display: grid;
+}
+
+.social-menu{
+    display: flex;
+}
+
 .header-div {
     max-width: 100%;
     display: flex;
 }
 
-.logo-core {
+.logo-core{
     max-width: 200px;
     margin-right: 500px;
 }
