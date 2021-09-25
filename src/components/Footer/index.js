@@ -5,23 +5,14 @@ import logoFooter from '../../assets/img/logo-corebiz-black.svg'
 const Footer = () => {
     return (
         <section className="footer-section">
-
             <footer>
-
-
-
                 <div className='marca'>
                     <img src={logoFooter} className="logo-core-black" alt="Logo Corebiz" />
                     <span className='logo-text'>direitos reservados. corebiz 2021</span>
                 </div>
 
 
-
-
-
-
                 <div className='social-links'>
-
                     <a className="link-rede" target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5562981126525&text=Ol%C3%A1%20Tudo%20bem%3F">
                         <img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-4.png" alt="whatsapp" className="icon" />
                     </a>
@@ -34,12 +25,7 @@ const Footer = () => {
                 </div>
 
 
-
-
-
-
                 <div className='lista-footer'>
-
                     <a href="https://www.corebiz.ag/" className="item-lista" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>a corebiz</a>
                     <hr />
 
@@ -89,13 +75,7 @@ const Footer = () => {
                         </p>
                     </div>
                 </container>
-
-
-
-
-
             </footer>
-
         </section>
     )
 }

@@ -1,0 +1,96 @@
+   
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700;800&display=swap');
+
+
+.main-dad{
+    max-width: 100vh;
+    height:100vh;
+    background-color:rgb(0, 0, 0);
+    display:grid;
+    grid-template-columns: 45% 55%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    flex-direction:column;
+
+}
+
+.main-title{
+    grid-column: 1;
+    grid-row: 1;
+    padding-left: 100px;
+    padding-top: 150px;
+    max-width:250px;
+    min-width: 150px;
+
+}
+
+.main-title {
+    font-family: Montserrat;
+    font-size: 1.5em;
+    color:white;
+    max-width:30vw;
+    margin:auto;
+}
+
+.miniurl-images{
+    grid-column: 1;
+    grid-row: 4;
+    display:inline-flex;
+    margin:auto;
+    object-fit: cover;
+    border:none;
+    padding-left: 100px;
+}
+
+.miniurl-images-buttton {
+    background-color:#000;
+    border:none;
+    margin: auto;
+}
+.banner{
+    grid-column: 2;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    height:80vh
+}
+.image-finish{
+  max-width: 150%;
+  border-radius: 15px;
+  margin-left: 130%;  
+  margin-top: 100px;
+}
+
+
+.imagem-api{
+    width:100%;
+    border: 1px solid #000;
+}
+
+.atv{
+    width:100%;
+    border: 3px solid #fff;
+    object-fit: cover;
+}
+.button-main{
+    grid-column: 1;
+    grid-row: 3;
+    width:15vw;
+    border-radius: 25px;
+    height:40px;
+    margin-left: 100px;
+    margin-top: 130px;
+}
+
+.button-main:hover{
+    background-color:rgb(165, 165, 165);
+    transition:ease-in 1s;
+
+}
+.title-button{
+    font-family: bold;
+    font-size:20px;
+    justify-content:center;
+    margin: auto
+}
+

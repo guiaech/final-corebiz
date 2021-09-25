@@ -7,6 +7,9 @@ const Header = () => {
         <section className="header">
             <div className="header-div">
                 <img className="logo-core" src={logo} alt="logo" />
+            </div>
+
+            <div className="links-div">
                 <a href="https://www.corebiz.ag/"  target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }} className="header-link" > a corebiz</a>
                 <a href="https://www.corebiz.ag/"  target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }} className="header-link" > serviços</a>
                 <a href="https://www.corebiz.ag/"  target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }} className="header-link" > cases</a>
