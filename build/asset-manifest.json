@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12f42436.chunk.css",
+    "main.js": "/static/js/main.9e91012a.chunk.js",
+    "main.js.map": "/static/js/main.9e91012a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/js/2.1defbd06.chunk.js": "/static/js/2.1defbd06.chunk.js",
+    "static/js/2.1defbd06.chunk.js.map": "/static/js/2.1defbd06.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.12f42436.chunk.css.map": "/static/css/main.12f42436.chunk.css.map",
+    "static/js/2.1defbd06.chunk.js.LICENSE.txt": "/static/js/2.1defbd06.chunk.js.LICENSE.txt",
+    "static/media/logo-corebiz-black.b78e4760.svg": "/static/media/logo-corebiz-black.b78e4760.svg",
+    "static/media/logo-corebiz-global.a98cb7cc.svg": "/static/media/logo-corebiz-global.a98cb7cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/js/2.1defbd06.chunk.js",
+    "static/css/main.12f42436.chunk.css",
+    "static/js/main.9e91012a.chunk.js"
+  ]
+}
