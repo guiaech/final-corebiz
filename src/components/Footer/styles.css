@@ -99,7 +99,7 @@ hr{
         display: grid;
         grid-template-columns: 50%50%;
         grid-template-rows: 20% 20% 20% 20% 20%;
-        height: 740px;
+        height: 840px;
         width: 100vh;
     }
 

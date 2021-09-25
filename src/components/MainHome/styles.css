@@ -16,14 +16,12 @@
 .main-title{
     grid-column: 1;
     grid-row: 1;
-    padding-left: 100px;
-    padding-top: 150px;
-    max-width:250px;
-    min-width: 150px;
+    padding-left: 115px;
+    padding-top: 5px;
+    max-width:550px;
     font-family: Montserrat;
-    font-size: 1.5em;
+    font-size: 2.5em;
     color:white;
-    max-width:30vw;
     margin:auto;
 
 }
@@ -35,28 +33,24 @@
     margin:auto;
     object-fit: cover;
     border:none;
-    padding-left: 100px;
+    margin-left: 120px;
+    min-width: 100%;
+    margin-top: 60px;
 }
 
 .miniurl-images-buttton {
     background-color:#000;
     border:none;
-    margin: auto;
+
 }
 
-.banner{
-    grid-column: 2;
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    margin:auto;
-    height:80vh
-}
+
+
 .image-finish{
-  max-width: 150%;
+  max-width: 170%;
   border-radius: 15px;
   margin-left: 130%;  
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 
@@ -73,9 +67,9 @@
 .button-main{
     grid-column: 1;
     grid-row: 3;
-    width:15vw;
+    width:25vw;
     border-radius: 25px;
-    height:40px;
+    height:60px;
     margin-left: 100px;
     margin-top: 130px;
 }
@@ -94,8 +88,17 @@
 
 
 @media (max-width: 720px){
+
+    .mainHome{
+        width:100vh;
+        margin: 0;
+        padding:0;
+    }
+
+
     .main-dad{
-        max-width:100%;
+        width:100vh;
+     
         min-height: 800px;
     }
 
@@ -118,6 +121,10 @@
         margin-top: 130px;
     }
     
+    .container-banner{
+        max-width:100%
+    }
+
 
     .banner{
         grid-column: 1;
@@ -133,10 +140,9 @@
     
     .image-finish{
         max-width: 100%;
-        border-radius: 15px;
         margin-left: 0%;  
         margin-top: 0px;
-    }
+      }
 
     .miniurl-images{
         grid-row: 5;

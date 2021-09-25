@@ -84,9 +84,9 @@ function MainHome() {
 
 
                 <div className="banner">
-                    <div className="container-banner">
+                 
                         <img src={dados[indice].url} alt="banner" className="image-finish" />
-                    </div>
+
                 </div>
 
             </div>

@@ -23,9 +23,10 @@
 }
 
 .logo-core{
-    max-width: 400px;
-    margin-left: 25px;
+    max-width: 200px;
+    float: right;
     margin-top: 20px;
+    padding-left: 60px;
 }
 
 
@@ -45,11 +46,32 @@
     margin-top: 20px;
 }
 
+.checkbtn {
+	font-size: 30px;
+	color: #fff;
+	float: right;
+	line-height: 80px;
+	margin-right: 40px;
+	cursor: pointer;
+	display: none;
+}
+#check {
+	display: none;
+}
+
 
 @media (max-width: 720px){
     .header{
         max-width:100vh
     }
+
+    .logo-core{
+        width:150px
+    }
+
+    .checkbtn {
+		display: block;
+	}
 
 
 }
