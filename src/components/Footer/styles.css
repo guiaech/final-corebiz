@@ -93,3 +93,83 @@ hr{
     padding-left: 40px;
     padding-right: 40px;
 }
+
+@media (max-width: 720px){
+    .footer-section{
+        display: grid;
+        grid-template-columns: 50%50%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+        height: 740px;
+        width: 100vh;
+    }
+
+    footer{
+        display: grid;
+        min-width: 100%;
+        margin:0
+    }
+
+
+    
+
+    .marca{
+        grid-column:1;
+        grid-row: 1;
+        margin-left: 40%;
+        max-width: 100%;
+
+    }
+
+    .social-links{
+        display: flex; 
+        position: relative; 
+        margin-left: 40%;
+        grid-row: 1;
+        grid-column: 1;
+
+    }
+    
+    .logo-text{
+        font-size: x-small;
+        padding-top: 10px;
+        width: 250px;
+        padding-bottom: 10px;
+    }
+
+    .link-rede{
+        height: 50px;
+        width: 50px
+    }
+
+
+    .lista-footer{
+        grid-column: 1;
+        grid-row:2;
+        padding-left: 18%;
+        padding-top: 10%;
+        width: 250px;
+        text-align: center;
+
+    }
+
+    .container-endereco{
+        display: grid;
+        grid-column:1 ;
+        grid-row:4;
+        margin-top: 30%;
+        padding:10%;
+        min-width: 300px;
+        margin-left: 0;
+    }
+
+    .Card{
+        margin: 0;
+        padding: 0;
+        min-width: 100%;
+        text-align: center;
+    }
+
+
+ 
+
+}

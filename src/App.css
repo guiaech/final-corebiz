@@ -6,3 +6,9 @@
   margin: 0px;
   background-color:#000;
 }
+
+@media (max-width: 720px){
+    .main{
+      align-items: center;
+    }
+}

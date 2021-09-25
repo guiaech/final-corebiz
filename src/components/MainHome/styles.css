@@ -20,15 +20,12 @@
     padding-top: 150px;
     max-width:250px;
     min-width: 150px;
-
-}
-
-.main-title {
     font-family: Montserrat;
     font-size: 1.5em;
     color:white;
     max-width:30vw;
     margin:auto;
+
 }
 
 .miniurl-images{
@@ -46,6 +43,7 @@
     border:none;
     margin: auto;
 }
+
 .banner{
     grid-column: 2;
     display:flex;
@@ -94,3 +92,69 @@
     margin: auto
 }
 
+
+@media (max-width: 720px){
+    .main-dad{
+        max-width:100%;
+        min-height: 800px;
+    }
+
+    .main-title{
+        grid-column: 1;
+        grid-row: 1;
+        max-width:30%;
+        padding: 0%;
+        margin-left:10%;
+        font-size: 1.2em;
+    
+    }
+
+
+    .button-main{
+        grid-row: 2;
+        width:200px;
+        height:50px;
+        margin-left: 15%;
+        margin-top: 130px;
+    }
+    
+
+    .banner{
+        grid-column: 1;
+        grid-row: 3;
+        display:grid;
+        justify-content: inherit;
+        margin: 0px;
+        height:20vh;
+        margin-top:60px;
+        margin-left: 21px;
+        width: 310px
+    }
+    
+    .image-finish{
+        max-width: 100%;
+        border-radius: 15px;
+        margin-left: 0%;  
+        margin-top: 0px;
+    }
+
+    .miniurl-images{
+        grid-row: 5;
+        display:inline-flex;
+        margin-left: 15%;
+        padding-left: 0px;
+        width: 200px;
+    }
+    
+    .imagem-api{
+        min-width:100%;
+        
+    }
+
+
+
+    
+    
+ 
+
+}

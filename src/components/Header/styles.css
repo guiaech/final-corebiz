@@ -44,3 +44,12 @@
     margin-right: 20px;
     margin-top: 20px;
 }
+
+
+@media (max-width: 720px){
+    .header{
+        max-width:100vh
+    }
+
+
+}
