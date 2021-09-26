@@ -27,7 +27,7 @@
 
  Link do YouTube : [https://youtu.be/i590QF0yZ_k]
 
-<img src="https://j.gifs.com/nROwVD.gif"/>
+<iframe src='//gifs.com/embed/finalcorebiz-nROwVD' frameborder='0' scrolling='no' width='1280px' height='680px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 
 
