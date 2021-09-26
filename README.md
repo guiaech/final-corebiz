@@ -25,7 +25,7 @@
 
  Link para ver o resultado : [https://final-corebiz.netlify.app/]
 
- Link do YouTube : [https://youtu.be/i590QF0yZ_k]
+ Link do YouTube : [https://www.youtube.com/watch?v=F4S160BeBno]
 
 
 <img src="./public/projeto.gif" />
