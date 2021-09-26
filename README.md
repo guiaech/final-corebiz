@@ -27,10 +27,9 @@
 
  Link do YouTube : [https://youtu.be/i590QF0yZ_k]
 
-![Alt Text](https://j.gifs.com/nROwVD.gif)
-
-
-
+<tr>
+<img src="https://j.gifs.com/nROwVD.gif" width="40" height="40" />
+</tr>
 
 
 # Colaborador ✨
