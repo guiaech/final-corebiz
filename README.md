@@ -28,7 +28,7 @@
  Link do YouTube : [https://youtu.be/i590QF0yZ_k]
 
 
-<img src="./public/projeto.gif" width="40" height="40" />
+<img src="./public/projeto.gif" />
 
 
 
