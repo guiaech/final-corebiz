@@ -38,7 +38,7 @@
     margin-top: 60px;
 }
 
-.miniurl-images-buttton {
+.miniurl-images-button {
     background-color:#000;
     border:none;
 
@@ -147,18 +147,32 @@
         max-width: 100%;
         margin-left: 0%;  
         margin-top: 0px;
-      }
+        
+    }
 
     .miniurl-images{
         grid-row: 5;
-        display:inline-flex;
         margin-left: 15%;
         padding-left: 0px;
-        width: 310px;
+        width: 300px;
+
+        
     }
+
+    .atv{
+        width:100%;
+        border: 3px solid #fff;
+        object-fit: cover;
+        border-radius:10px
+    }
+
+
+
+
     
     .imagem-api{
-        min-width:100%;
+        min-width:60px;
+        border-radius:20px
         
     }
 
