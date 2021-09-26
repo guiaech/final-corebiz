@@ -45,7 +45,6 @@
 }
 
 
-
 .image-finish{
   max-width:750px;
   border-radius: 20px;
@@ -81,11 +80,17 @@
 }
 .title-button{
     font-family: bold;
-    font-size:20px;
-    justify-content:center;
-    margin: auto
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    color: #000
 }
 
+
+.seta{
+    padding-left: 5px ;
+    padding-top: 1px;
+}
 
 @media (max-width: 720px){
 
@@ -107,7 +112,7 @@
         grid-row: 1;
         max-width:30%;
         padding: 0%;
-        margin-left:10%;
+        margin-left:20%;
         font-size: 1.2em;
     
     }

@@ -41,7 +41,7 @@ function MainHome() {
                 </div>
 
                 <button  className="button-main">
-                    <a href="https://www.corebiz.ag/"  target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }} className="title-button"> Veja Mais</a>
+                    <a href="https://www.corebiz.ag/"  target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }} className="title-button"> Veja Mais <img className="seta" src="https://raw.githubusercontent.com/mluizarodrigues/gobeyond-desafio-final/03c7c916e7f81618bb093f49f4c22ed630f2ca50/src/assets/images/icon-arrow.svg" alt="seta" /></a>
                 </button>
 
 

@@ -23,7 +23,6 @@ const Nav = styled.nav`
           padding-left: 30px
       }
 
-
   }
 `
 
