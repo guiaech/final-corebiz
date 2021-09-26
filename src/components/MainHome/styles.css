@@ -47,10 +47,10 @@
 
 
 .image-finish{
-  max-width: 150%;
-  border-radius: 15px;
-  margin-left: 130%;  
-  margin-top: 50px;
+  max-width:750px;
+  border-radius: 20px;
+  margin-left: 60%;  
+  margin-top: 40px;
 }
 
 
@@ -147,7 +147,7 @@
     .miniurl-images{
         grid-row: 5;
         display:inline-flex;
-        margin-left: 10%;
+        margin-left: 15%;
         padding-left: 0px;
         width: 200px;
     }
