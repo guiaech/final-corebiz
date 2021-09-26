@@ -27,9 +27,9 @@
 
  Link do YouTube : [https://youtu.be/i590QF0yZ_k]
 
-<tr>
-<img src="https://j.gifs.com/nROwVD.gif" width="40" height="40" />
-</tr>
+
+<img src="./public/projeto.gif" width="40" height="40" />
+
 
 
 # Colaborador ✨
