@@ -15,6 +15,7 @@
 ## Tecnologias usadas:
  Foi usado REACT com JavaScript, CSS e HTML para criação da página com os componentes Header, Main e Footer. 
  Já a API foi criada com os serviços da AWS usando API GATEWAY, banco de dados DynamoDB e a função Lambda.
+ Domuentação da função Lambda [https://github.com/guiaech/Lambda-Corebiz]
 
 
 
@@ -22,7 +23,11 @@
 
 ## Resultado:
 
- Link para ver o resultado [https://final-corebiz.netlify.app/]
+ Link para ver o resultado : [https://final-corebiz.netlify.app/]
+
+ Link do YouTube : [https://youtu.be/i590QF0yZ_k]
+
+<img src="https://gifs.com/gif/finalcorebiz-nROwVD"/>
 
 
 
