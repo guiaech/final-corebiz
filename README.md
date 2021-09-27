@@ -15,7 +15,7 @@
 ## Tecnologias usadas:
  Foi usado REACT com JavaScript, CSS e HTML para criação da página com os componentes Header, Main e Footer. 
  Já a API foi criada com os serviços da AWS usando API GATEWAY, banco de dados DynamoDB e a função Lambda.
- Domuentação da função Lambda [https://github.com/guiaech/Lambda-Corebiz]
+ Documentação da função Lambda [https://github.com/guiaech/Lambda-Corebiz]
 
 
 
